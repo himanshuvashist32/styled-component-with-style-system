@@ -178,6 +178,14 @@ export const space = {
   md: 6,
   lg: 8,
   xl: 12,
+  "2xl": 16,
+  "3xl": 20,
+  "4xl": 24,
+  "5xl": 28,
+  "6xl": 30,
+  "7xl": 32,
+  "8xl": 36,
+  "9xl": 40,
 };
 
 export default {
